@@ -1,0 +1,92 @@
+body{
+    background-color: #000;
+}
+.main-wrapper-login {
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+}
+.Login-wrapper {
+    background-color: #fff;
+    max-width: 750px;
+    max-height: 670px;
+    padding: 60px 100px 100px;
+    margin: auto;
+}
+.input-login-control {
+    border-color: #a7a7a7;
+    border-radius: 30px;
+    height: 40px;
+    padding-left: 30px;
+    color: #a7a7a7;
+}
+.input-login-control:focus{
+    outline: none;
+    box-shadow: none;
+    border-color: #a7a7a7;
+}
+.input-login-control::placeholder{
+    color: #a7a7a7;
+}
+.remember-me span {
+    font-size: 15px;
+    color: #161616;
+    font-weight: 500;
+}
+.link-forgot {
+    font-size: 15px;
+    text-decoration: none;
+    color: #161616;
+    font-weight: 500;
+}
+.link-forgot:hover{
+    color: #161616;
+}
+.btn-login {
+    background-color: #161616;
+    width: 100%;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px 10px;
+}
+.btn-login:hover{
+    color: rgb(24, 24, 202);
+    background-color: rgb(232, 209, 239);
+}
+/*------------------------------forgot Password---------------------*/
+.forgt-txt-head h1 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #161616;
+    margin-bottom: 30px;
+}
+.forgt-txt-head p {
+    color: #161616;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.btn-login-back {
+    color: #000;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0px;
+}
+
+/* ============================================= google-----login =============== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

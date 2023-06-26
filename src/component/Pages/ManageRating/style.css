@@ -1,0 +1,123 @@
+.manage--txtcontent {
+    background-color: #161616;
+    padding: 30px 50px 50px 15px;
+}
+.manage--wrap-rating {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.multi-manageview--rat {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 40px
+}
+.mange-fleximg--grid {
+    flex: 0 0 75px;
+    max-width: 75px;
+}
+.manage-rating-content-wrap {
+    padding-left: 20px;
+    flex: 1;
+}
+.mng-leftside-rating {
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 40px;
+}
+.manage-fleximg--grid img {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.manage-ratingrow--content {
+    display: flex;
+    flex-wrap: wrap;
+}
+.manage-ratingrow--content .manage-righttxt--head {
+    flex: 1;
+    padding-right: 20px;
+}
+.manage-righttxt--head .manage-head-ratingview {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 0px;
+}
+.manage-righttxt--head .manage-categ-rating {
+    font-size: 14px;
+    color: #fff;
+}
+.manage-multiIcon--start {
+    align-self: center;
+}
+.manage-multiIcon--start .manage-startlist-icon {
+    color: #ffcc00;
+    display: inline-block;
+    text-indent: 3px;
+}
+.manage-rating-content-wrap .manage-txt-rating-review {
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 0px;
+}
+.right-closebtn {
+    align-self: center;
+}
+.btnclose {
+    background-color: #fb4e4f;
+    color: #fff;
+    font-size: 19px;
+    width: 35px;
+    height: 35px;
+    line-height: normal;
+    border-radius: 50%;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

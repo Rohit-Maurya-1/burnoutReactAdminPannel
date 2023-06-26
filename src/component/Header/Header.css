@@ -1,0 +1,27 @@
+body{
+    background-color: #f0f0f0;
+}
+img{
+    max-width: 100%;
+}
+.top-header {
+    padding: 18px 0px;
+}
+.bg-default-theme{
+    background-color:#161616;
+}
+.navbar-light .navitem-menu .nav-link {
+    color: #fff;
+    font-size: 15px;
+    padding: 12px 17px;
+    font-weight: 600;
+    margin: 0px 15px;
+}
+.navbar-light .navitem-menu .nav-link:hover{
+    color: #fff;
+    background-color: #272727;
+}
+.navbar-light .navitem-menu .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+    background-color: #272727;
+}
